@@ -1,2 +1,2 @@
-# Vigenere-cipher-in-cpp-Rust-For-School
-School homework
+# Vigenere-cipher-in-cpp-For-School
+I will add description
